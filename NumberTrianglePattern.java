@@ -2,7 +2,7 @@
 // Number triangle pattern
 import java.util.*;
 
-public class NumberTrianglePattern{
+public class GeeksForGeeks {
 	// Function to demonstrate pattern
 	public static void printPattern(int n)
 	{
