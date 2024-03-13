@@ -2,7 +2,7 @@
 // Triangular Pattern
 import java.util.*;
 
-public class TriangleStarPattern {
+public class GeeksForGeeks {
 	// Function to demonstrate pattern
 	public static void printPattern(int n)
 	{
