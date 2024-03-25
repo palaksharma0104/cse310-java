@@ -1,4 +1,4 @@
-// Java Program to print
+public // Java Program to print
 // Rhombus pattern
 import java.util.*;
 
@@ -30,4 +30,7 @@ public class GeeksForGeeks {
 		int n = 6;
 		printPattern(n);
 	}
+}
+ {
+    
 }
