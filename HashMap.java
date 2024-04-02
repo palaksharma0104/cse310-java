@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-public class HashMap{
+public class SortHashMapByValue {
 
 	public static void main(String[] args) {
 		Map<String, Integer> scores = new HashMap<>();
