@@ -1,7 +1,7 @@
 //import required classes and packages  
 import java.util.*;   
 import java.io.*;   
-import java.util.Scanner; 
+import java.util.Scanner;
   
 //create DuckNumberExample class to check whether the given number is a Duck number or not  
 public class DuckNumberExample {  
