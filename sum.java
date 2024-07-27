@@ -5,6 +5,5 @@ public class sum {
         int num3= 76; 
         int sum = num1+num2+num3;
         System.out.println("The sum of three numbers is : " +sum);
-       }
-    
+    } 
 }
