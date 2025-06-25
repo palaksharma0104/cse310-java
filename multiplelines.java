@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class multiplelines {
     public static void main(String args[]){
         System.out.println("Hey!");
@@ -5,3 +6,12 @@ public class multiplelines {
     }
     
 };
+=======
+public class multiplelines {
+    public static void main(String args[]){
+        System.out.println("Hey!");
+        System.out.println("It's the next line hehe");
+    }
+    
+};
+>>>>>>> d13ba69 (first)
