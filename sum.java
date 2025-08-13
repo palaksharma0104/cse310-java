@@ -7,3 +7,4 @@ public class sum {
         System.out.println("The sum of three numbers is : " +sum);
     } 
 }
+
