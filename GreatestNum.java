@@ -14,3 +14,4 @@ public class GreatestNum{
         System.out.println("The greatest number is: "+c);
     }
 }
+
