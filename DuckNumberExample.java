@@ -52,3 +52,4 @@ public class DuckNumberExample {
             System.out.println(n2 + " is not a Duck number");   
     }  
 }  
+
